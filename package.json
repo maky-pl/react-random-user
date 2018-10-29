@@ -7,7 +7,6 @@
     "dev": "webpack-dev-server",
     "prod": "webpack -p"
   },
-  "author": "Petr Tichy",
   "license": "ISC",
   "devDependencies": {
     "babel": "6.5.2",
