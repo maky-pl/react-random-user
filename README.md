@@ -1,6 +1,5 @@
-## Simple Graphs with Charts.js and Material Kit React.
 
-Simple react app showing random users profiles
+##Simple react app showing random users profiles
 
 ### Todos
 
